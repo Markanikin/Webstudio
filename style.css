@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,700;1,400&display=swap');
+
+.el2>el1>el3>el4>el5 {
+    font-family: 'Roboto' sans-serif;
+    font-weight: 500;
+}
+
+.el1 {
+    width: 20%;
+    font-family: 'Raleway' sans-serif;
+}
+
+.el3 {
+    width: 8%;
+}
+
+.el4 {
+    width: 10%;
+}
+
+.el5 {
+    width: 25%;
+}
+
+.el6 {
+    width: 25%;
+    font-family: 'Roboto';
+    font-weight: 500;
+}
+
+.button-text {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-family: 'Roboto';
+    font-weight: 700;
+}
+
+.knopka {
+    background-color: rgba(0, 0, 0, 0.788);
+    padding: 10%;
+}
+
+.button {
+    margin-left: 11.5cm;
+    padding: 10px;
+    background-color: rgba(38, 38, 252, 0.66);
+    color: rgb(255, 255, 255);
+    font-family: 'Roboto';
+    font-weight: 700;
+}
+
+.feature {
+    display: inline-block;
+    margin-left: 1cm;
+    font-family: 'Roboto'
+    ;
+    font-weight: 400;
+}
+
+.box-title {
+    text-align: center;
+    font-family:'Roboto';
+    font-weight: 700;
+}
+
+.team-title {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(239, 239, 249);
+}
+
+.pidval {
+    font-family:'Raleway';
+    font-weight: 700;
+    color: rgb(255, 255, 255);
+    background-color: rgba(0, 0, 0, 0.788);
+    padding: 40px;
+}
+
+.title {
+    font-family: 'Roboto';
+    font-weight: 700;
+}
+.team-title>h2{font-family: 'Roboto';
+font-weight: 700;}
